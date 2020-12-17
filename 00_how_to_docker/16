@@ -1,1 +1,3 @@
-docker logs -f spawning-pool
+#!/bin/bash
+
+docker logs spawning-pool

@@ -1,1 +1,3 @@
-docker restart overlord
+#!/bin/bash
+
+docker restart overload
